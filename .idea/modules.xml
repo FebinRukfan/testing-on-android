@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/validation_unit_test.iml" filepath="$PROJECT_DIR$/.idea/validation_unit_test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/validation_unit_test.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/validation_unit_test.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/validation_unit_test.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/validation_unit_test.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/validation_unit_test.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/validation_unit_test.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/validation_unit_test.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/validation_unit_test.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing-on-android.iml" filepath="$PROJECT_DIR$/.idea/modules/testing-on-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/testing-on-android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/testing-on-android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/testing-on-android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/testing-on-android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/testing-on-android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/testing-on-android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/testing-on-android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/testing-on-android.app.unitTest.iml" />
     </modules>
   </component>
 </project>
