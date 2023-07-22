@@ -1,3 +1,5 @@
 # testing-on-android
 
 1. UNIT TESTS
+2. INTEGRATION TESTS
+3. UI TESTS
